@@ -11,3 +11,6 @@ Um aplicativo simples de lista de compras com suporte a itens, quantidades e pre
 
 rum time:
 - Node (v22.14.0)
+
+gerenciador de pacotes:
+- npm (v11.3.0)
